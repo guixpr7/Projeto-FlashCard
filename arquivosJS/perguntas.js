@@ -24,8 +24,8 @@ criaCartao(
 
 criaCartao(
     'Física',
-    'Qual é a diferença entre massa e peso?',
-    'A diferenaça é O peso é a força com que um corpo é atraído pela Terra. Massa é uma medida direta da oposição que um corpo oferece à mudança em seu estado de movimento.'
+    'Qual é a diferênça entre massa e peso?',
+    'A diferênça é: O peso é a força com que um corpo é atraído pela Terra. Massa é uma medida direta da oposição que um corpo oferece à mudança em seu estado de movimento.'
 )
 
 criaCartao(
